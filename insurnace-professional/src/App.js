@@ -1,6 +1,6 @@
 import './App.css';
 
-import Register from './Register';
+// import Register from './Register';
 
 function App() {
   return (
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
