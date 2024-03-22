@@ -1,6 +1,6 @@
 import './App.css';
 
-// import Register from './Register';
+import Register from './Register';
 
 function App() {
   return (
